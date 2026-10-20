@@ -21,11 +21,12 @@ Guests scan a QR code and send photos from their phones. Hosts manage what appea
 
 | Your way to BoothWall | Start here |
 | :--- | :--- |
-| **Run it yourself** — the complete open-source product, with a browser wall, guest photo capture, host controls and a Vega OS TV app. | [Source & quick start](https://github.com/ddedic/boothwall) · [Live demo](https://oss.boothwall.com/demo/) |
+| **Run it yourself** — the complete open-source product, with a browser wall, guest photo capture, host controls and a Vega OS TV app. | [Source & quick start](https://github.com/boothwall/boothwall-oss) · [Live demo](https://oss.boothwall.com/demo/) |
+| **Develop for Amazon Vega** — a browser remote for the Vega Virtual Device and Fire TV devices in developer mode. | [Vega Web Remote](https://github.com/boothwall/vega-web-remote) |
 | **Let us host it** — BoothWall Cloud, our hosted service. | [Coming soon & launch notifications](https://boothwall.com/) |
 
 ### Build with us
 
 The open-source edition is MIT licensed. Explore the code, try a local wall, report a reproducible bug or contribute an improvement.
 
-[Get started](https://github.com/ddedic/boothwall#readme) · [Read the documentation](https://oss.boothwall.com/) · [Report an issue](https://github.com/ddedic/boothwall/issues)
+[Get started](https://github.com/boothwall/boothwall-oss#readme) · [Read the documentation](https://oss.boothwall.com/) · [Report an issue](https://github.com/boothwall/boothwall-oss/issues)
