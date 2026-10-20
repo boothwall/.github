@@ -1,6 +1,6 @@
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/boothwall/.github/main/assets/boothwall-on-dark.svg">
-  <img src="https://raw.githubusercontent.com/boothwall/.github/main/assets/boothwall-on-light.svg" alt="BoothWall" width="300">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/boothwall/.github/main/assets/readme-banner-dark.png">
+  <img src="https://raw.githubusercontent.com/boothwall/.github/main/assets/readme-banner-light.png" alt="BoothWall Cloud: live photo walls for events. Open-source edition: boothwall-oss." width="100%">
 </picture>
 
 ## Turn any screen into a live photo wall.
