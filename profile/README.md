@@ -9,24 +9,30 @@ A room full of people. A screen full of their moments.
 
 Guests scan a QR code and send photos from their phones. Hosts manage what appears on the shared screen. Built for conferences, trade fairs, weddings and parties.
 
-**[Try the live demo →](https://oss.boothwall.com/demo/)** · [Explore the open-source edition](https://oss.boothwall.com/) · [BoothWall Cloud](https://boothwall.com/)
+### BoothWall Cloud — coming soon
+
+Our hosted BoothWall service is on its way. Visit the Coming soon page and confirm your email to receive one announcement when BoothWall opens. No general newsletter.
+
+**[Coming soon & launch notifications →](https://boothwall.com/)**
+
+### Run it yourself
+
+The open-source edition gives you a browser wall, guest photo capture, host controls and a Vega OS TV app. Self-hosted, MIT licensed.
+
+[Source & quick start](https://github.com/boothwall/boothwall-oss#readme) · [Try the OSS demo](https://oss.boothwall.com/demo/) · [Documentation](https://oss.boothwall.com/)
 
 <a href="https://oss.boothwall.com/demo/">
-  <img src="https://raw.githubusercontent.com/boothwall/.github/main/assets/live-photo-wall.jpg" alt="BoothWall's browser display: event photos on a live wall, a scan-to-share QR code and a guest activity panel." width="100%">
+  <img src="https://raw.githubusercontent.com/boothwall/.github/main/assets/live-photo-wall.jpg" alt="BoothWall OSS demo: event photos on a live wall, a scan-to-share QR code and a guest activity panel." width="100%">
 </a>
 
-### Make the room part of the story
+### Develop for Amazon Vega
 
-**Scan. Snap. Share.** Guests join through their browser. The wall brings their photos together on the big screen, and the host stays in control.
+Vega Web Remote is a full remote control for the Vega Virtual Device and Fire TV devices in developer mode, in a browser tab.
 
-| Your way to BoothWall | Start here |
-| :--- | :--- |
-| **Run it yourself** — the complete open-source product, with a browser wall, guest photo capture, host controls and a Vega OS TV app. | [Source & quick start](https://github.com/boothwall/boothwall-oss) · [Live demo](https://oss.boothwall.com/demo/) |
-| **Develop for Amazon Vega** — a browser remote for the Vega Virtual Device and Fire TV devices in developer mode. | [Vega Web Remote](https://github.com/boothwall/vega-web-remote) |
-| **Let us host it** — BoothWall Cloud, our hosted service. | [Coming soon & launch notifications](https://boothwall.com/) |
+[Explore Vega Web Remote →](https://github.com/boothwall/vega-web-remote)
 
 ### Build with us
 
-The open-source edition is MIT licensed. Explore the code, try a local wall, report a reproducible bug or contribute an improvement.
+Explore the open-source code, try a local wall, report a reproducible bug or contribute an improvement.
 
 [Get started](https://github.com/boothwall/boothwall-oss#readme) · [Read the documentation](https://oss.boothwall.com/) · [Report an issue](https://github.com/boothwall/boothwall-oss/issues)
